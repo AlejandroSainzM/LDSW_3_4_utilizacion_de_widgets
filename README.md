@@ -1,5 +1,6 @@
-#LDSW 3.4 – Utilización de Widgets
-Descripción de la actividad:
+# LDSW 3.4 – Utilización de Widgets
+
+## Descripción de la actividad:
 Se creó una aplicación Flutter como parte de la actividad 3.4 de la materia Diseño de Aplicaciones Móviles.
 
 Se implementaron los widgets básicos solicitados: Text, Row, Column, Container y Stack.
