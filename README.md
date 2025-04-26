@@ -1,16 +1,11 @@
-# utilizacion_de_widgets
+#LDSW 3.4 – Utilización de Widgets
+Descripción de la actividad:
+Se creó una aplicación Flutter como parte de la actividad 3.4 de la materia Diseño de Aplicaciones Móviles.
 
-A new Flutter project.
+Se implementaron los widgets básicos solicitados: Text, Row, Column, Container y Stack.
 
-## Getting Started
+Cada widget fue configurado y personalizado para demostrar su funcionalidad básica.
 
-This project is a starting point for a Flutter application.
+La aplicación muestra todos los widgets en una única pantalla de forma organizada.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+El proyecto fue desarrollado en Flutter y subido a GitHub para su revisión.
